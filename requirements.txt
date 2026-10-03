@@ -1,0 +1,7 @@
+requests
+tzdata
+customtkinter
+playwright
+pystray
+pillow
+pytest
